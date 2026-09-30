@@ -80,21 +80,7 @@
       "description": "Pull request",
       "date": "2026-08-31",
       "type": "pull_request"
-    },
-    {
-      "title": "Pushed commits to codeamanwal/akshita-portfolio",
-      "description": "Code changes",
-      "date": "2026-08-30",
-      "url": "https://github.com/codeamanwal/akshita-portfolio",
-      "type": "commit"
-    },
-    {
-      "title": "Pushed commits to codeamanwal/akshita-portfolio",
-      "description": "Code changes",
-      "date": "2026-08-29",
-      "url": "https://github.com/codeamanwal/akshita-portfolio",
-      "type": "commit"
     }
   ],
-  "lastUpdated": "2026-09-29T05:29:54.267Z"
+  "lastUpdated": "2026-09-30T05:18:01.717Z"
 }
